@@ -1,0 +1,5 @@
+k.log
+*.db 
+*.log 
+/target 
+/bin.
